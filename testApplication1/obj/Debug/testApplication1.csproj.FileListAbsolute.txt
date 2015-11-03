@@ -1,1 +1,6 @@
 E:\Users\yassin\gitRep\testApplication1\testApplication1\bin\Debug\testApplication1.exe.config
+E:\Users\yassin\gitRep\testApplication1\testApplication1\bin\Debug\testApplication1.exe
+E:\Users\yassin\gitRep\testApplication1\testApplication1\bin\Debug\testApplication1.pdb
+E:\Users\yassin\gitRep\testApplication1\testApplication1\obj\Debug\testApplication1.csprojResolveAssemblyReference.cache
+E:\Users\yassin\gitRep\testApplication1\testApplication1\obj\Debug\testApplication1.exe
+E:\Users\yassin\gitRep\testApplication1\testApplication1\obj\Debug\testApplication1.pdb
